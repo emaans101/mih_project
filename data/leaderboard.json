@@ -1,0 +1,47 @@
+[
+  {
+    "id": "seed-1",
+    "displayName": "Emaan",
+    "totalPoints": 250,
+    "gamesCompleted": 10,
+    "imposterWins": 4,
+    "correctGuesses": 7,
+    "updatedAt": "2026-09-20T13:28:39.248Z"
+  },
+  {
+    "id": "seed-2",
+    "displayName": "Sara",
+    "totalPoints": 210,
+    "gamesCompleted": 8,
+    "imposterWins": 3,
+    "correctGuesses": 6,
+    "updatedAt": "2026-09-20T10:28:39.249Z"
+  },
+  {
+    "id": "seed-3",
+    "displayName": "Ahmed",
+    "totalPoints": 185,
+    "gamesCompleted": 7,
+    "imposterWins": 2,
+    "correctGuesses": 5,
+    "updatedAt": "2026-09-20T07:28:39.249Z"
+  },
+  {
+    "id": "seed-4",
+    "displayName": "Ali",
+    "totalPoints": 160,
+    "gamesCompleted": 6,
+    "imposterWins": 2,
+    "correctGuesses": 4,
+    "updatedAt": "2026-09-20T03:28:39.249Z"
+  },
+  {
+    "id": "seed-5",
+    "displayName": "Zain",
+    "totalPoints": 140,
+    "gamesCompleted": 5,
+    "imposterWins": 1,
+    "correctGuesses": 4,
+    "updatedAt": "2026-09-19T15:28:39.249Z"
+  }
+]

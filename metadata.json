@@ -1,0 +1,6 @@
+{
+  "name": "MIH: Innovation Imposter",
+  "description": "Solo-friendly social deduction game for Middlesex Innovative Hub (MIH) at Middlesex University Dubai. Think fast, give clues, and find the Imposter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
