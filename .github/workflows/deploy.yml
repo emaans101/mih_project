@@ -30,7 +30,7 @@ jobs:
         run: bun install
 
       - name: Build project
-        run: bun run build --base=/mih_project/
+        run: bun run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
